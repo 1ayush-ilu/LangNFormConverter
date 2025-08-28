@@ -1,0 +1,12 @@
+{
+  "name": "languageconverter",
+  "version": "1.0.0",
+  "description": "A working starter project to upload a file, translate its contents to a selected language, and convert the output into TXT/DOCX/PDF with a clean, modern UI.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
